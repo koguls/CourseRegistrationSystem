@@ -1,6 +1,6 @@
 # Course Registration System  
 
-![Project Screenshot](path/to/your/image.png)  
+![Project Screenshot](https://github.com/koguls/OnlyImg/blob/843d7e10b40ea65ab11aec1e08455b0c9918147d/img1.png)  
 
 ## Overview  
 The **Course Registration System** is a web-based application that allows students to register for courses, view available courses, and check enrolled students. It integrates front-end and back-end technologies to provide a seamless experience.  
@@ -11,13 +11,24 @@ The **Course Registration System** is a web-based application that allows studen
 - **Fields**:  
   - Name  
   - Email  
-  - Course selection (Dropdown)  
+  - Course selection (Dropdown)
+ 
+    
+![Project Screenshot](https://github.com/koguls/OnlyImg/blob/843d7e10b40ea65ab11aec1e08455b0c9918147d/img3.png)
 
 ### 2. Available Courses  
-- Displays the real-time list of courses in a table format.  
+- Displays the real-time list of courses in a table format.
+
+
+ ![Project Screenshot](https://github.com/koguls/OnlyImg/blob/843d7e10b40ea65ab11aec1e08455b0c9918147d/img5.png)
 
 ### 3. Enrolled Students  
-- Shows the real-time list of students registered for each course in a table format.  
+- Shows the real-time list of students registered for each course in a table format.
+
+  
+ ![Project Screenshot](https://github.com/koguls/OnlyImg/blob/843d7e10b40ea65ab11aec1e08455b0c9918147d/img6.png)
+
+ ![](https://github.com/koguls/OnlyImg/blob/843d7e10b40ea65ab11aec1e08455b0c9918147d/img7.png)
 
 ## Technologies Used  
 
@@ -35,10 +46,15 @@ The **Course Registration System** is a web-based application that allows studen
 - Hibernate  
 - Spring & Spring Boot  
 - MySQL  
-- Maven (Build Tool)  
+- Maven (Build Tool)
+
+   ![Project Screenshot](https://github.com/koguls/OnlyImg/blob/843d7e10b40ea65ab11aec1e08455b0c9918147d/backendimg1.png)
+   ![Project Screenshot](https://github.com/koguls/OnlyImg/blob/843d7e10b40ea65ab11aec1e08455b0c9918147d/bimg2.png) 
 
 ### **API Testing**  
-- **Postman** (Used for API testing and validation)  
+- **Postman** (Used for API testing and validation)
+
+   ![Project Screenshot](https://github.com/koguls/OnlyImg/blob/843d7e10b40ea65ab11aec1e08455b0c9918147d/bimg3.png)
 
 ## Project Structure  
 
@@ -104,13 +120,6 @@ API Endpoint	Method	Description
 Screenshots
 Registration Page	Available Courses	Enrolled Students
 	
-	
-Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-License
-
-This project is licensed under the MIT License.
 
 
 ### Updates:
@@ -119,3 +128,13 @@ This project is licensed under the MIT License.
 ✅ **API Endpoints table** is added for quick reference.  
 
 This README now fully documents your **frontend, backend, and API testing setup**. Let me know if you
+
+
+Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+
+## 🙋‍♂️ Author
+**Kogul**  
+[GitHub Profile](https://github.com/koguls)
