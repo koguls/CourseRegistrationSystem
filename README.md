@@ -1,4 +1,4 @@
-# Course Registration System  
+🕮 # Course Registration System  
 
 ![Project Screenshot](https://github.com/koguls/OnlyImg/blob/843d7e10b40ea65ab11aec1e08455b0c9918147d/img1.png)  
 
