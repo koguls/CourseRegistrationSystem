@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <title>Register a Course</title>
+        <style>
+            body{
+                background-color: beige;
+                text-align: center;
+                margin: 28px;
+                
+            }
+
+            form{
+                margin: auto;
+                padding: 20px;
+                width: 400px;
+                color: aliceblue;
+                background-color: rgb(41, 40, 40);
+                text-emphasis-color: brown;
+                outline: none;
+                
+            }
+            input, select, button{
+                width: 90%;
+                padding: 10px;
+                margin: 10px;
+
+            }
+            input:focus{
+                border: 2px solid rgb(156, 223, 101);
+                outline: none;
+                box-shadow: 5px #ffff;
+            }
+            button{
+                background-color: rgb(109, 213, 74);
+                color: whitesmoke;
+                font-weight: medium;
+                font-size: medium;
+                cursor: pointer;
+                border-radius: 20px;
+                
+            }
+            button:hover{
+                background-color: green;
+            }
+            button::after{
+                background-color: black;
+            }
+            select:focus{
+                border: 2px solid rgb(156, 223, 101);
+                outline: none;
+                box-shadow: 5px #ffff;
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1 style="color: rgb(109, 213, 74);">KickStart with An Exciting Course</h1>
+
+        <form action="http://localhost:8080/courses/reg" method="post">
+            <label for="name"> Enter Your Name</label><br>
+            <input type="text" name="name" ><br><br>
+            <label for="email"> Enter Your EmailID</label><br>
+            <input type="text" name="emailId"><br><br>
+            <label for="Course">Choose a Course</label><br>
+            <select name="courseName" id="course">
+                <option value="Java Essentials">Java Essentials</option>
+                <option value="Python for ML">Python for ML</option>
+                <option value="Spring Boot">Spring Boot</option>
+            </select>
+
+            <br><br>
+            <button type="submit">Submit</button>
+
+        </form>
+    </body>
+</html>
